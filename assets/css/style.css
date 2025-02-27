@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+/* ---------- COMMON RULES ----------- */
+
+body {
+  font-family: TS-reg, sans-serif;
+  font-size: 16px;
+  background-color: white;
+}
+
+.container {
+  width: 1135px;
+  margin: 0 auto;
+  border: 1px solid red;
+}
+
+/*
+h1 {
+  font-size: 54px;
+}
+
+header {
+  height: 60px;
+  border-bottom: 1px solid lightgrey;
+}
+
+header > div {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+header img {
+  height: 40px;
+}
+
+header nav {
+  border: 1px solid blue;
+}
+
+header nav {
+  display: flex;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+}
+
+*/
+
+/* -------------------------- */
+
+/* -------- HEADER ----------- */
+
+header {
+  background-color: white;
+}
+
+header img {
+  width: 200px;
+}
+
+/* ------------ MAIN ------------- */
+
+main {
+  padding-top: 60px;
+}
+
+/* ------- FOOTER STYLE ------- */
+
+footer {
+  padding: 60px 0px;
+  font-size: 12px;
+  text-align: center;
+  color: grey;
+}
