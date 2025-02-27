@@ -4,8 +4,10 @@
 /* ---------- COMMON RULES ----------- */
 
 body {
-  font-family: TS-reg, sans-serif;
-  font-size: 16px;
+  /* font-family: TS-re, sans-serif;
+  font-family: 'Roboto', sans-serif; */
+
+  font-size: 50px;
   background-color: white;
 }
 
@@ -53,14 +55,15 @@ a {
 /* -------------------------- */
 
 /* -------- HEADER ----------- */
-/* 
+
 header {
   background-color: white;
+  font-size: 26px;
 }
 
 header img {
   width: 200px;
-} */
+}
 
 /* ------------ MAIN ------------- */
 
@@ -69,10 +72,12 @@ main {
 }
 
 /* ------- FOOTER STYLE ------- */
-/* 
+
+/*
 footer {
   padding: 60px 0px;
   font-size: 12px;
   text-align: center;
   color: grey;
-} */
+}
+*/
