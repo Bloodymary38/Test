@@ -53,14 +53,14 @@ a {
 /* -------------------------- */
 
 /* -------- HEADER ----------- */
-
+/* 
 header {
   background-color: white;
 }
 
 header img {
   width: 200px;
-}
+} */
 
 /* ------------ MAIN ------------- */
 
@@ -69,10 +69,10 @@ main {
 }
 
 /* ------- FOOTER STYLE ------- */
-
+/* 
 footer {
   padding: 60px 0px;
   font-size: 12px;
   text-align: center;
   color: grey;
-}
+} */
